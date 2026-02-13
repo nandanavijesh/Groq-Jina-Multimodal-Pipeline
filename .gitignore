@@ -1,0 +1,7 @@
+# Ignore environment variables file (contains secrets)
+.env
+
+# Ignore generated files and folders
+__pycache__/
+vector_db/
+data/images/

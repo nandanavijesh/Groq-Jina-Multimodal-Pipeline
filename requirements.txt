@@ -1,0 +1,7 @@
+streamlit
+groq
+python-dotenv
+faiss-cpu
+pypdf
+jina
+pillow
